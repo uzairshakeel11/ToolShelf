@@ -1,0 +1,32 @@
+.picture{
+    width: 150px;
+    height: 150px;
+    margin: 10px;
+    border-radius: 10px;
+}
+.container{
+    display: flex;
+}
+
+.qtyavailable{
+    font-size: 18px;
+    font-weight: 900;
+    margin-top: -7px;
+
+}
+.redColor{
+    color: red;
+}
+.blackColor{
+    color: black;
+}
+.tooldescription{
+    margin-top: -22px;
+    word-break: break-word;
+    height: 89px;
+    overflow: hidden;
+    width: 95%;
+}
+.toolname{
+    margin-top: 5px;
+}
